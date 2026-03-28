@@ -1,0 +1,9 @@
+—- Dynamic Array —- Appended elements with resizing Pop: 9
+
+—- Linked List —- 2 -> 1 -> 3 -> None 1 -> 3 -> None
+
+—- Stack —- Pop: 20
+
+—- Queue —- Dequeue: 1
+
+—- Parentheses —- ([]) -> True ([)] -> False ((( -> False -> True
