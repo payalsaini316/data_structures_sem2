@@ -1,0 +1,14 @@
+Binary Search Tree (BST)
+
+Inorder traversal produces a sorted output because it follows the order:
+Left → Root → Right
+
+Time Complexity
+Average Case: O(log n)
+Worst Case: O(n)
+BFS vs DFS
+BFS (Breadth-First Search): Traverses the graph level by level
+DFS (Depth-First Search): Traverses the graph depth-wise
+Use Cases
+BFS: Used for finding the shortest path in an unweighted graph
+DFS: Used for cycle detection in graphs
